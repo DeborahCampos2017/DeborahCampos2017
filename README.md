@@ -1,5 +1,7 @@
 # Hello World!!!👋 That's me...😊
 
+![Alt Text](https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif)
+
 Olá!! Me chamo **Deborah Campos** sou estudante de Análise e Desenvolvimento de Sistemas e me encantei pelo mundo do desenvolvimento, principalmente pelo front-end.
 
 Resolvi entrar para esse mundo pois, sou apaixonada por resolver problemas e gosto de estar em constante aprendizagem.
