@@ -2,7 +2,7 @@
 
 ![Alt Text](https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif)
 
-Olá!! Me chamo **Deborah Campos** sou estudante de Análise e Desenvolvimento de Sistemas e  presto serviçoes como desenvolvedora web front end.
+Olá!! Me chamo **Deborah Campos** sou estudante de Análise e Desenvolvimento de Sistemas e  presto serviços como desenvolvedora web front end.
 
 Sou apaixonada  em resolver problemas e gosto de estar em constante atualização e aprendizado.
 
