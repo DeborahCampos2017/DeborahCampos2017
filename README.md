@@ -52,7 +52,7 @@
 
 ###
 
-Olá!! Me chamo **Deborah Campos** formada em Análise e Desenvolvimento de Sistemas e  presto serviços como desenvolvedora web front end há 3 anos.
+Olá!! Me chamo **Deborah Campos** formada em Análise e Desenvolvimento de Sistemas e  presto serviços como desenvolvedora web front end há 4 anos.
 
 Sou apaixonada  em resolver problemas e gosto de estar em constante atualização e aprendizado.
 
